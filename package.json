@@ -1,0 +1,17 @@
+{
+  "name": "zinc-web-app",
+  "version": "1.0.0",
+  "description": "[SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.6",
+    "expres": "0.0.5",
+    "xml2json": "^0.11.0"
+  }
+}
